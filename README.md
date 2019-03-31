@@ -1,6 +1,6 @@
 # soundscape
 Hello; Soundscape-installer is an Open-Source installer for Soundscape .
-Soundscape is a free music streaming server.
+Soundscape is a free music streaming server; Link to Soundscape official repo : https://github.com/soundscapecloud/soundscape
 -----------------------------------------------
 -------------------------------------------------
 INSTALLATION INSTRUCTIONS :
